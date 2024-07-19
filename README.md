@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyansh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
-
-- 💬 Ask me about **React, Node**
 
 - 📫 Contact me **priyanshpandey41@gmail.com**
 
